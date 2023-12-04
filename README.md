@@ -4,5 +4,5 @@ Physics-informed Neural Networks — PINNs
 
 <div align="center">
 <img src=PINNs.jpeg" >
-<p>Perfectly balanced</p>
+<p>How exactly PINNs work</p>
 </div>
